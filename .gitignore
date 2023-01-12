@@ -1,4 +1,12 @@
+# Ignore these
 /dev/gtzan/*
 /dev/spec/*
 /dev/test/*
+/dev/temp/*
 /src/.ipynb_checkpoints
+
+# But not these files within /dev/ directory
+!*/dev/temp/.gitkeep
+!*/dev/spec/.gitkeep
+!*/dev/test/.gitkeep
+!*/dev/gtzan/.gitkeep
