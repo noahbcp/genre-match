@@ -1,2 +1,4 @@
-/dev/*
+/dev/gtzan/*
+/dev/spec/*
+/dev/test/*
 /src/.ipynb_checkpoints
